@@ -96,7 +96,6 @@
 <a href="https://www.linkedin.com/in/pedro-henrique-de-almeida-93b677220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
-
-  
+ ![Snake animation](https://github.com/PHAlmeidaSouza/PHAlmeidaSouza/blob/output/github-contribution-grid-snake.svg) 
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
